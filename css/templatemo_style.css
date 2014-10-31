@@ -15,7 +15,7 @@ body {
 	background-position: top center
 }
 
-a, a:link, a:visited { color: #83cf32; font-weight: 400; text-decoration: underline; }
+a, a:link, a:visited { color: #83cf32; font-weight: normal; text-decoration: underline; }
 a:hover { text-decoration: none; }
 
 p { margin: 0 0 10px 0; padding: 0; }
