@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage{ctex}
+\songti{}
+\rmfamily{}
+\usepackage{graphicx}
+\usepackage[comma]{natbib}
+\usepackage{times}
+\usepackage{amsthm,amsmath,amssymb}
+\usepackage{verbatim}
+
+\usepackage[]{geometry} %如margin=2cm
+
+\begin{document}
+
+\title{心理黑箱}
+\author{}
+\date{}
+\maketitle{}
+
+%\begin{abstract}
+%本文给出生物的定义，讨论其存在的原理及存在性的理想态。\par
+%\textbf{Keywords:} aaa; bbb
+%\end{abstract}
+
+\section{引言}
+
+\section{思维的表示}
+
+
+\section{心灵系统的图灵完备性(turing completeness)}
+为了描述人类思维过程的外在部分\citep{clark1998extended},\citet{turing1936computable}建立了Turing machine的模型，该模型构成了计算科学的基础理论。为了描述一般数学逻辑系统，\citet{church1932set,church1936unsolvable,church1940formulation}建立了名为lambda calculus的形式系统。\citet{turing1937computability}证明了Turing machine和lambda calculus之间具有等价性，即具有相互对等的计算能力，引出了Church–Turing thesis\citep{kleene1952introduction}。
+
+Turing machine和lambda calculus皆由人类思维构建，说明人类心灵系统具有不低于Turing machine的计算能力。关于人类的计算能力相比于Turing machine究竟是更强还是相等，有两种不同观点：一种观点认为可以用Turing machine构建等同于人类思维能力的系统\citep{turing1950computing}；另一种观点猜想人类的思维是某种超代数运算如量子运算的结果。
+
+\section{判定准则}
+
+\section{任务管理与监督学习}
+
+\section{结论}
+
+\bibliographystyle{apalike}
+\bibliography{References}
+\end{document}
