@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.12)  29 AUG 2014 13:58
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.2.12)  10 JAN 2015 10:51
 entering extended mode
-**C:/Users/acer11/Desktop/BackedWriting/人类观察/1_生物的存在性/生�
-�的存在性.tex
+**D:/BaiduCloud/amandus1990/amandus1990.github.io/Archivo/人类观察/1_人的
+存在/人的存在.tex
 
-(C:/Users/acer11/Desktop/BackedWriting/人类观察/1_生物的存在性/生物
-的存在性.tex
+(D:/BaiduCloud/amandus1990/amandus1990.github.io/Archivo/人类观察/1_人的�
+��在/人的存在.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for loaded.
 (C:\CTEX\MiKTeX\tex\latex\base\article.cls
@@ -455,8 +455,8 @@ File: listings.cfg 2014/03/04 1.5c listings configuration
 ))
 Package: listings 2014/03/04 1.5c (Carsten Heinz)
 
-(C:\Users\acer11\Desktop\BackedWriting\人类观察\1_生物的存在性\生物
-的存在性.aux)
+(D:\BaiduCloud\amandus1990\amandus1990.github.io\Archivo\人类观察\1_人的�
+��在\人的存在.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
@@ -619,42 +619,42 @@ Package CJKpunct Info: punctuation spaces for family 'zhsong' do not exist. Use
  [1
 
 ] [2] [3] [4] [5]
-(C:\Users\acer11\Desktop\BackedWriting\人类观察\1_生物的存在性\生物
-的存在性.bbl) [6]
-(C:\Users\acer11\Desktop\BackedWriting\人类观察\1_生物的存在性\生物
-的存在性.aux) ) 
+(D:\BaiduCloud\amandus1990\amandus1990.github.io\Archivo\人类观察\1_人的�
+��在\人的存在.bbl) [6]
+(D:\BaiduCloud\amandus1990\amandus1990.github.io\Archivo\人类观察\1_人的�
+��在\人的存在.aux) ) 
 Here is how much of TeX's memory you used:
- 12040 strings out of 495354
- 186277 string characters out of 3183859
- 244140 words of memory out of 3000000
- 14949 multiletter control sequences out of 15000+200000
- 32442 words of font info for 101 fonts, out of 3000000 for 9000
+ 12036 strings out of 495354
+ 186236 string characters out of 3183859
+ 244134 words of memory out of 3000000
+ 14945 multiletter control sequences out of 15000+200000
+ 31846 words of font info for 99 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 36i,6n,32p,1025b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/WINDOWS/
-Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/
-WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.
-ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts
-/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDO
-WS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><
-C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sims
-un.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fo
-nts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WI
-NDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.tt
-c><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
-imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
-/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
-/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
-.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
-s/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WIND
-OWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf>
-<C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/sim
-hei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
+ 36i,6n,32p,1031b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/CTEX/MiKTeX/fonts/enc/dvips/fontname/8r.enc}<C:/WI
+NDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.tt
+f><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/s
+imhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:
+/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Font
+s/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
+OWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc>
+<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sim
+sun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
 onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
-INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/CTEX/MiKTeX/fonts/type
-1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/CTE
-X/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 生物的存在性.pdf (6 pages, 429374 bytes).
+INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
+tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
+simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
+S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
+:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+ts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WIN
+DOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/CTEX/MiKTeX/font
+s/type1/urw/times/utmb8a.pfb><C:/CTEX/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><
+C:/CTEX/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 人的存在.pdf (6 pages, 428693 bytes).
 PDF statistics:
  250 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
