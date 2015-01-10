@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage{ctex}
+\songti{}
+\rmfamily{}
+\usepackage{graphicx}
+\usepackage[comma]{natbib}
+\usepackage{times}
+\usepackage{amsthm,amsmath,amssymb}
+
+\usepackage[]{geometry} %如margin=2cm
+
+\begin{document}
+
+\title{金融市场的结构}
+\author{}
+\date{}
+\maketitle{}
+
+%\begin{abstract}
+%货币发行者发行货币的速度应依照货币需求的变化进行调整。
+%\par
+%\textbf{Keywords:} 交易成本; 货币理论; 货币数量论; 新兴古典经济学
+%\end{abstract}
+
+\section{引言}
+货币需求理论是由古典经济学家在19世纪和20世纪初发展起来的，揭示在总收入规模既定情况下所持货币数量的理论。该理论重点在建立货币供给量和其他经济变量之间的联系，同时定性地揭示了货币价值的决定因素。
+
+\bibliographystyle{apalike}
+\bibliography{References}
+\end{document}

@@ -1,0 +1,64 @@
+@book{descartes1616rules,
+  title={Rules for the Direction of the Mind},
+  author={Descartes, Rene},
+  volume={1},
+  year={1616}
+}
+
+@article{bertalanffy1968general,
+  title={General system theory: foundations, development, applications},
+  author={Bertalanffy, L von},
+  year={1968},
+  publisher={New York: Braziller}
+}
+
+@article{turing1950computing,
+  title={Computing machinery and intelligence},
+  author={Turing, Alan M},
+  journal={Mind},
+  volume={59},
+  number={236},
+  pages={433--460},
+  year={1950},
+  publisher={JSTOR}
+}
+
+@article{von1944theory,
+  title={The theory of games and economic behavior},
+  author={Von Neumann, John and Morgenstern, Oskar},
+  year={1944},
+  publisher={Princeton university press}
+}
+
+@article{schelling1960strategy,
+  title={The strategy of conflict},
+  author={Schelling, TC},
+  year={1960},
+  publisher={Oxford University Press}
+}
+
+@article{aubin1981cooperative,
+  title={Cooperative fuzzy games},
+  author={Aubin, Jean-Pierre},
+  journal={Mathematics of Operations Research},
+  volume={6},
+  number={1},
+  pages={1--13},
+  year={1981},
+  publisher={INFORMS}
+}
+
+@book{arrow1963social,
+  title={Social Choice and Individual Values},
+  author={Arrow, Kenneth Joseph},
+  number={12},
+  year={1963},
+  publisher={Yale University Press}
+}
+
+@book{yang1993specialization,
+  title={Specialization and economic organization: A new classical microeconomic framework},
+  author={Yang, Xiaokai and Ng, Yew-Kwang},
+  year={1993},
+  publisher={North-Holland Amsterdam}
+}
